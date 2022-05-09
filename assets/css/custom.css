@@ -1,0 +1,12 @@
+.carousel-item {
+    background-color:#0B1270 !important;
+}
+.rounded-buttons .rounded-two {
+    background-color:#0B1270 !important;
+ }
+ .slider-content .slider-btn li a.rounded-two:hover {
+     color:#fff !important;
+ }
+ .pricing-style {
+     background: linear-gradient(#616BF2 0%,#0B1270 100%) !important;
+ }
