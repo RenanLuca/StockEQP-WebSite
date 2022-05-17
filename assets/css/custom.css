@@ -10,3 +10,20 @@
  .pricing-style {
      background: linear-gradient(#616BF2 0%,#0B1270 100%) !important;
  }
+ .team-style-eleven .team-image img {
+     max-height: 350px !important;
+ }
+ .team-container {
+     flex-wrap: nowrap !important;
+     overflow-x: scroll;
+ }
+
+ .portfolio-image img{
+     max-height: 150px;
+ }
+ @media (max-width: 767.98px) { 
+    .team-container {
+        flex-wrap: wrap !important;
+        overflow-x: visible;
+    }
+  }
